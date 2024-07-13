@@ -1,0 +1,9 @@
+body {
+    display: block;
+    height: 100vh;
+    width: 100vh;
+    background: linear-gradient(rgb(113, 113, 113), rgb(22, 22, 22));
+}
+h1, h2, form{
+    text-align: center;
+}
